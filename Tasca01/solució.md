@@ -60,3 +60,5 @@ Discs durs externs per còpia mensual.
 1 còpia fora de l’empresa: Al núvol.
 
 La còpia més recent hauria d’estar al NAS intern per restauració ràpida.
+
+## FASE 2:
