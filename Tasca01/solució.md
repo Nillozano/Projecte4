@@ -61,4 +61,5 @@ Discs durs externs per còpia mensual.
 
 La còpia més recent hauria d’estar al NAS intern per restauració ràpida.
 
+---
 ## FASE 2:
