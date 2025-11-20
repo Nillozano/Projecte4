@@ -1,6 +1,6 @@
-# Pla de Còpies de Seguretat
-
-##  1.Què copiar? (Priorització): Quines són les dades més crítiques del servidor? Cal fer còpia dels 10 equips clients? Justifica-ho.
+# T01: DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
+## FASE 1
+###  1.Què copiar? (Priorització): Quines són les dades més crítiques del servidor? Cal fer còpia dels 10 equips clients? Justifica-ho.
 Les dades més crítiques del servidor són:
 
 Bases de Dades (Comptabilitat i Clients): Crítiques i d'ús diari.
@@ -16,7 +16,7 @@ Carpetes Personals dels Usuaris: Importants però menys crítiques.
 
 
 
-## 2. Periodicitat i Tipus de Còpia: Proposa un calendari bàsic per a la setmana (Diari/Setmanal/Mensual) i quin tipus de còpia aplicaràs (Completa, Diferencial, Incremental) per a les dades crítiques.
+### 2. Periodicitat i Tipus de Còpia: Proposa un calendari bàsic per a la setmana (Diari/Setmanal/Mensual) i quin tipus de còpia aplicaràs (Completa, Diferencial, Incremental) per a les dades crítiques.
 
 **Bases de Dades (Comptabilitat/Clients):**
 
@@ -42,7 +42,7 @@ Diferencial: Setmanal.
 
 
 
-## 3. Mitjans i Ubicació: Quin tipus de mitjà de còpia utilitzaries (Discs durs externs, NAS, Cloud, Cintes)? On s'hauria de guardar físicament la còpia més recent (Regla 3-2-1).
+### 3. Mitjans i Ubicació: Quin tipus de mitjà de còpia utilitzaries (Discs durs externs, NAS, Cloud, Cintes)? On s'hauria de guardar físicament la còpia més recent (Regla 3-2-1).
 **Mitjans:**
 
 NAS intern per còpies ràpides.
