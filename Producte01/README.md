@@ -28,3 +28,6 @@ https://github.com/SMX2m/EverPia-Onboarding
 ## Materials i links de suport
 - **Guia de l’activitat:**  
 https://github.com/SMX2n/Projecte04-GuiaGitHub¡
+
+---
+[Solució](/solució.md)
