@@ -30,4 +30,4 @@ https://github.com/SMX2m/EverPia-Onboarding
 https://github.com/SMX2n/Projecte04-GuiaGitHub¡
 
 ---
-[Solució](/solució.md)
+[Solució](/Producte01/solució.md)
