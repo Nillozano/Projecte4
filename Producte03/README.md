@@ -5,3 +5,6 @@ Com en projectes anteriors, la metodologia Kanban és vital pel bon funcionament
 Cada setmana es farà un revisió de l’estat del Planner per això és molt important que no el deixeu per darrera hora.
 
 Aquí teniu el **product backlog** d’aquest projecte.
+
+---
+[Solució](/Producte03/solució.md)
