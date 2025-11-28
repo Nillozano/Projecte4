@@ -120,3 +120,7 @@ Tot el que fareu deriva directament dels apartats del dossier.
 ### Fonaments segons dossier
 - Tots els apartats integrats (màrqueting mix complet)
 - Capacitat de síntesi i comunic
+
+
+---
+[Solució](/Tasca16/solució.md)
