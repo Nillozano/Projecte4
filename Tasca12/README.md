@@ -11,3 +11,6 @@ Aquesta tasca combina els conceptes fonamentals d’ambdós elements per oferir 
 Exemple d’una web amb una landing page quilomètrica: 
 
 https://romualdfons.com/monetizacion-webs/  
+
+---
+[Solució](/Tasca12/solució.md)
