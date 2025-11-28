@@ -52,3 +52,6 @@ Ha d'explicar el procés des del punt de vista de l'usuari que rep ajuda. Ha d'i
 - https://www.genbeta.com/a-fondo/que-software-instalar-a-tus-familiares-amigos-para-darles-soporte-ayuda-remoto  
 - https://www.genbeta.com/herramientas/necesitas-escritorio-remoto-puedes-decirle-adios-a-teamviewer-rustdesk-gratis-e-ideal-para-usar-pc-movil  
 - https://www.genbeta.com/herramientas/chrome-remote-desktop-que-como-funciona-como-puedes-usarlo-para-controlar-tu-pc-forma-remota
+
+---
+[Solució](/Tasca07/solució.md)
