@@ -31,3 +31,6 @@ Es tracta d’una tasca **individual.**
 - **INCIBE.** ¿Ya tienes tu Plan de Recuperación ante Desastres?. [Blog]. Agost 2019. Disponible a:  
   https://www.incibe.es/empresas/blog/tienes-tu-plan-recuperacion-desastres  
 - Pàgina oficial de **[Rescuezilla.](https://rescuezilla.com/)**
+
+---
+[Solució](/Tasca03/solució.md)
