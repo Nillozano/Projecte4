@@ -43,3 +43,6 @@ Ara passaràs a automatitzar el procés de les còpies utilitzant uns scripts b�
   http://manpages.ubuntu.com/manpages/trusty/man1/duplicity.1.html  
 - **Programant tasques amb cron:**  
   https://geekytheory.com/programar-tareas-en-linux-usando-crontab
+
+---
+[Solució](/Tasca02/solució.md)
