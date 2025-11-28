@@ -31,3 +31,6 @@ Comencem la PoC.
 ## Materials i links de suport
 - Moodle 0227 Serveis de Xarxa. UD4.AA2 Pràctica SSH  
 Vídeo. SSH amb clau pública/privada [(link)](https://youtu.be/3JbJ_8fO5nM)
+
+---
+[Solució](/Tasca05/solució.md)
