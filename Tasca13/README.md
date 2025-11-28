@@ -36,3 +36,7 @@ Les maquetes han de permetre navegar:
 - Amb pagament per targeta i PayPal.  
 - Amb codi de descompte.  
 - Amb recollida en botiga.  
+
+
+---
+[Solució](/Tasca13/solució.md)
