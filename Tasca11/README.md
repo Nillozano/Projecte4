@@ -20,3 +20,6 @@ Abans d’afrontar un projecte real amb un client d’EverPia, cal conèixer les
 ## Ampliació
 Si vols aprendre més sobre **FIGMA**, et recomanem fer aquest curs  
 https://academia.openwebinars.net/portada/figma/?
+
+---
+[Solució](/Tasca11/solució.md)
