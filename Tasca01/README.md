@@ -87,3 +87,6 @@ Treballant per parelles:
 - INCIBE. [Copias de seguridad.](https://www.incibe.es/sites/default/files/contenidos/guias/guia-copias-de-seguridad.pdf) Una guía de aproximación para el empresario.  
 - Xataka. Backup 3 - 2 - 1, el método definitivo para mantener a salvo tus datos. [YouTube]. Setembre 2017. Disponible a:
  https://youtu.be/PM_M4Iz6I4o?si=F7DRyDDTZE3hjWn8
+
+---
+[Solució](/Tasca01/solució.md)
