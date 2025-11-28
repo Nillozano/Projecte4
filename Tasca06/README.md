@@ -18,3 +18,6 @@ Aquesta documentació ha de ser extremadament clara. Penseu que un client nervi�
 **Materials i links de suport**
 
 Moodle 0227 Serveis de Xarxa. UD4.AA3 Escriptoris Remots
+
+---
+[Solució](/Tasca06/solució.md)
