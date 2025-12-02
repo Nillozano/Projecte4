@@ -83,3 +83,4 @@ La còpia més recent hauria d’estar al NAS intern per restauració ràpida.
   1 fora de l’empresa: Núvol
 
 ---
+## FASE 3:
