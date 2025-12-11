@@ -1,37 +1,37 @@
 ## Configuració de xarxa
 Primer de tot hem de posar la primera xarxa de cada màquina en Xarxa NAT.
 
-![](img/1.png)
-![](img/2.png)
+![](img/01.png)
+![](img/02.png)
 
 ## Configuració de Windows
 Per configurar el Windows hem d'anar a Sistema.
 
-![](img/3.png)
+![](img/03.png)
 
 Dins de sistema a Escritorio remoto.
 
-![](img/4.png)
+![](img/04.png)
 
 Dins activem l'escritori remot, li donem a confirmar.
 
-![](img/5.png)
+![](img/05.png)
 
 Seguidament, agreguem un usuari per fer l'escritori remot, anem dins de Usuarios de Escritorio remoto.
 
-![](img/6.png)
+![](img/06.png)
 
 Dins a Agregar.
 
-![](img/7.png)
+![](img/07.png)
 
 I agreguem el nostre usuari. Confirmem que estigui tot bé clicant a Comprobar nombres (si el text es posa subrallat es que està bé).
 
-![](img/8.png)
+![](img/08.png)
 
 Per últim mirem que estigui l'usuari asignat.
 
-![](img/9.png)
+![](img/09.png)
 
 ## Connexió Zorin a Windows
 Desde la màquina Zorin entrem a l'aplicació Remmina
