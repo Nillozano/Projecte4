@@ -5,7 +5,7 @@ Primer de tot hem de posar la primera xarxa de cada màquina en Xarxa NAT.
 ![](img/02.png)
 
 ## Configuració de Windows
-Per configurar el Windows hem d'anar a Sistema.Dins de sistema a Escritorio remoto.
+Per configurar el Windows hem d'anar a Sistema. Dins de sistema a Escritorio remoto.
 
 ![](img/03.png)
 
