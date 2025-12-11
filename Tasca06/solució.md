@@ -77,7 +77,14 @@ Dins de l'aplicació de la màquina Windows posem la ip que hem consultat.
 
 ![](img/19.png)
 
+Ara li posem les credencials que he esmentat abans.
 
 ![](img/20.png)
+
+Li donem que si.
+
 ![](img/21.png)
+
+I ja estariam connectats.
+
 ![](img/22.png)
