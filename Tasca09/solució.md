@@ -61,15 +61,11 @@ sudo usermod -aG admins admin01
 
 ![](img/13.png)
 
-```
 
-```
 
 ![](img/14.png)
 
-```
 
-```
 
 ![](img/15.png)
 
@@ -108,9 +104,7 @@ sudo apt install nfs-kernel-server -y
 
 ![](img/20.png)
 
-```
 
-```
 
 ![](img/21.png)
 
