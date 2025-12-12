@@ -391,3 +391,14 @@ ls -l /mnt/
 ```
 
 ![](img/60.png)
+
+---
+# Conclusió i Recomanacions
+El sistema NFS funciona bé per compartir carpetes entre servidor i client si es configura correctament. Hem vist que els permisos i el fitxer /etc/exports són claus, i que el root_squash evita que el root del client tingui control total, cosa que és important per seguretat.
+### Recomanacions:
+
+- Deixar root_squash activat per evitar riscos, excepte en xarxes molt segures.
+- Configurar bé permisos i grups abans de compartir carpetes.
+- Usar IPs fixes per controlar qui té accés i amb quins permisos.
+- Afegir les entrades a /etc/fstab per muntatge automàtic.
+- Fer còpies de seguretat abans de canvis importants.
