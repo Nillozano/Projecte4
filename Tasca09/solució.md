@@ -1,40 +1,40 @@
 # Fase 1: Preparació de l'entorn
 Primer de tot haurem de configurar las xarxes de les dues màquines.
-![](img/1.png)
+![](img/01.png)
 
-![](img/2.png)
+![](img/02.png)
 
-![](img/3.png)
+![](img/03.png)
 
-![](img/4.png)
+![](img/04.png)
 
 En el procés d'instal·lació de la màquina del server hem d'habilitar l'opció d'instal·lar el OpenSSH.
-![](img/5.png)
+![](img/05.png)
 
 Seguidament, instal·lem el SSH en la màquina de client.
 ```
 sudo apt install ssh
 ```
-![](img/6.png)
+![](img/06.png)
 
 Mirem que vagin el les dues màquines.
 ```
 ping 127.0.0.1
 ```
 
-![](img/7.png)
+![](img/07.png)
 
 ```
 ping 127.0.0.1
 ```
-![](img/8.png)
+![](img/08.png)
 
 I per acabar la fase 1 actualitzem les dues màquines.
 ```
 sudo apt upgrade && sudo apt update
 ```
 
-![](img/9.png)
+![](img/09.png)
 
 ```
 sudo apt upgrade && sudo apt update
