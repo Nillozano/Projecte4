@@ -198,6 +198,11 @@ I observem que com abans hem posat no tenim els permisos per entrar a la carpeta
 ![](img/32.png)
 ![](img/33.png)
 
+Verificar quin és el propietari del fitxer creat. Per què? Justificar la resposta amb l'explicació tècnica de 'root_squash'.
+
+No podem accedir a la carpeta perquè no tenim els permisos que necessitem. Això passa perquè no està activat el root squash, que fa que l'usuari amb privilegis de la màquina client no sigui reconegut com el root del servidor.
+
+---
 Iniciem sessió en admin01.
 ```
 sudo login admin01
