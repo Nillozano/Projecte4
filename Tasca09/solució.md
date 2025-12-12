@@ -226,122 +226,123 @@ sudo showmount -e 192.168.56.105
 
 ![](img/40.png)
 
+```
+
+```
+
 ![](img/41.png)
+
+```
+
+```
 
 ![](img/42.png)
 
+```
+
+```
+
 ![](img/43.png)
+
+```
+
+```
 
 ![](img/44.png)
 
+```
+
+```
+
 ![](img/45.png)
+
+```
+
+```
 
 ![](img/46.png)
 
+```
+
+```
+
 ![](img/47.png)
+
+```
+
+```
 
 ![](img/48.png)
 
+```
+
+```
+
 ![](img/49.png)
+
+```
+
+```
 
 ![](img/50.png)
 
+```
+
+```
+
 ![](img/51.png)
+
+```
+
+```
 
 ![](img/52.png)
 
+```
+
+```
+
 ![](img/53.png)
+
+```
+
+```
 
 ![](img/54.png)
 
+```
+
+```
+
 ![](img/55.png)
+
+```
+
+```
 
 ![](img/56.png)
 
+```
+
+```
+
 ![](img/57.png)
+
+```
+
+```
 
 ![](img/58.png)
 
+```
+
+```
+
 ![](img/59.png)
+
+```
+
+```
 
 ![](img/60.png)
 
-![](img/61.png)
-
-![](img/62.png)
-
-![](img/63.png)
-
-![](img/64.png)
-
-![](img/65.png)
-
-![](img/66.png)
-
-![](img/67.png)
-
-![](img/68.png)
-
-![](img/69.png)
-
-![](img/70.png)
-
-![](img/71.png)
-
-![](img/72.png)
-
-![](img/73.png)
-
-![](img/74.png)
-
-![](img/75.png)
-
-![](img/76.png)
-
-![](img/77.png)
-
-![](img/78.png)
-
-![](img/79.png)
-
-![](img/80.png)
-
-![](img/81.png)
-
-![](img/82.png)
-
-![](img/83.png)
-
-![](img/84.png)
-
-![](img/85.png)
-
-![](img/86.png)
-
-![](img/87.png)
-
-![](img/88.png)
-
-![](img/89.png)
-
-![](img/90.png)
-
-![](img/91.png)
-
-![](img/92.png)
-
-![](img/93.png)
-
-![](img/94.png)
-
-![](img/95.png)
-
-![](img/96.png)
-
-![](img/97.png)
-
-![](img/98.png)
-
-![](img/99.png)
-
-![](img/100.png)
