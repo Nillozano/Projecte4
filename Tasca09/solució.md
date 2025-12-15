@@ -240,8 +240,8 @@ sudoi nano /etc/exports
 
 D'aquesta forma.
 ```
-/srv/nfs/admin_tools *(rw,sync,no_subtree_check,no_root_squash)
-/srv/nfs/dev_projectes *(rm,syn,no_subtree_check)
+/srv/nfs/admin_tools *(rw,sync,no_subtree_check)
+/srv/nfs/dev_projectes *(rw,sync,no_subtree_check)
 ```
 
 ![](img/39.png)
