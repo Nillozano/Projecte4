@@ -99,7 +99,7 @@ I fem el mateix amb el drive.
 ![](img/32.png)
 ![](img/33.png)
 ![](img/34.png)
-![](img/35.png)
+![](img/68.png)
 
 ## Copies Ubuntu
 Primer creem el segon disc de 10 GB.
