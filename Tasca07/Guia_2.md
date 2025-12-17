@@ -1,11 +1,14 @@
 # Guia 2: Manual per al Client (Usuari Final)
 Aquesta guia és la que enviarem als nostres clients quan tinguin una incidència. Ha de ser extremadament simple, visual i no tècnica.
+
 Ha d'explicar el procés des del punt de vista de l'usuari que rep ajuda.
+
 Ha d'incloure (amb captures de pantalla molt clares):
-·         L'enllaç o la manera de descarregar el mòdul "Quick Support" (o equivalent) que no requereixi instal·lació.
-·         On han de fer clic exactament.
-·         Com identificar i comunicar al tècnic l'ID de sessió i la contrasenya (si n'hi ha).
-·         Com acceptar la petició de connexió.
+
+- L'enllaç o la manera de descarregar el mòdul "Quick Support" (o equivalent) que no requereixi instal·lació.
+- On han de fer clic exactament.
+- Com identificar i comunicar al tècnic l'ID de sessió i la contrasenya (si n'hi ha).
+- Com acceptar la petició de connexió.
 
 ## GUIA
 Eina: TeamViewer.
