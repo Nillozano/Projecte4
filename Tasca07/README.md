@@ -55,3 +55,7 @@ Ha d'explicar el procés des del punt de vista de l'usuari que rep ajuda. Ha d'i
 
 ---
 [Solució](/Tasca07/solució.md)
+
+[Guia 1](/Tasca07/Guia_1.md)
+
+[Guia 2](/Tasca07/Guia_2.md)
