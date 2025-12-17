@@ -86,7 +86,7 @@ I fem la restauració.
 ![](img/25.png)
 ![](img/26.png)
 ![](img/27.png)
-![](img/28.png)
+![](img/67.png)
 
 Un cop feta mirem que tornem a veure el fitxer.
 
