@@ -2,6 +2,11 @@ Anthony i Nil
 
 #### Taula Comparativa
 
+| Criteri                 | TeamViewer                                                        | AnyDesk                                                         | Chrome Remote Desktop                              | DWService                                         |
+|-------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------|
+| **Facilitat d’ús**     | Es pot usar sense instal·lar i només quan cal. L’usuari només ha de donar un ID i un codi. La interfície és molt fàcil d’entendre, fins i tot per a persones sense coneixements tècnics. | Es pot instal·lar ràpid o usar sense instal·lar. L’usuari només ha d’enviar un ID. La interfície és clara, però la versió gratuïta pot deixar de funcionar en entorns d’empresa. | Totalment portable: només cal una extensió o una eina molt lleugera. L’usuari només ha de compartir un codi de 12 dígits. És molt fàcil d’utilitzar. | Molt fàcil d’utilitzar: funciona directament des del navegador. L’agent és temporal i no cal instal·lar res obligatòriament. |
+| **Disponibilitat (Sistemes Operatius)** | Windows, macOS, Linux, Android i iOS.                           | Windows, macOS, Linux i Android/iOS.                           | Windows, macOS, Linux, iOS i Android.           | Windows, macOS i Linux.                         |
+| **Model de preu (Llicència)** | Llicència bàsica: 24,90 €/mes Business: 50,90 €/mes Premium: 112,90 $ Corporate: 229,90 $ | La versió gratuïta és només per a ús personal i pot bloquejar-se si es detecta ús comercial. | Totalment gratuït i sense límits comercials. Només cal un compte de Google. No té limitacions comercials, però les funcions són molt bàsiques. | Totalment gratuït, també per a ús comercial. No té cap limitació ni bloqueig.             |
 
 
 #### Recomanació
